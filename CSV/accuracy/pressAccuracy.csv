@@ -1,0 +1,6 @@
+Name,accuracyRate
+Mean absolute error,0.02
+Mean squared error,0.0
+Median absolute error,0.01
+Explain variance score,-0.41
+R2 score,-0.76
